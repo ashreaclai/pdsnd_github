@@ -1,8 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
+March 10th 2020
 
 ### Project Title
-Replace the Project Title
+Post Your Work on GitHub
 
 ### Description
 Describe what your project is about and what it does
